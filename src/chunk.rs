@@ -1,4 +1,5 @@
 use crate::chunk_type::ChunkType;
+use std::fmt;
 
 
 struct Chunk {
